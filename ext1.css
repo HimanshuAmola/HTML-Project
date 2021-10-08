@@ -1,0 +1,19 @@
+label{
+    color: yellow ;
+}
+#password{
+    color: violet !important;
+}
+#checkbox
+{
+    color: seashell !important;
+}
+.sure{
+    color: slateblue !important;
+}
+.redcolor{
+    color: sienna;
+}
+.fonttype{
+    font-size: large;
+}
