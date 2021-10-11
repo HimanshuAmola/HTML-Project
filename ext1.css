@@ -3,17 +3,56 @@ label{
 }
 #password{
     color: violet !important;
+    text-decoration: line-through;
+    text-decoration-color: antiquewhite;
+    text-decoration-style: inherit;
+    margin-top: "34px";
 }
 #checkbox
 {
     color: seashell !important;
+    margin-left: "33px";
 }
 .sure{
     color: slateblue !important;
+    font-style: italic;
+    margin-right: "32px";
 }
 .redcolor{
-    color: sienna;
+    color: sienna !important;
+    font-family: "cursive";
+    font-size: "20px";
+    background-color: cyan;
+    font-weight: "600" !important;
 }
 .fonttype{
     font-size: large;
+}
+.fonttype{
+    font-family: cursive;
+}
+.margining{
+    margin-top: 30px;
+}
+.border{
+    border-color: lawngreen;
+    border-style: solid;
+    border-width: 35px;
+}
+.name{
+    border: black solid;
+    height: 300px;
+    background-image: linear-gradient( 
+        180deg,red, yellow);
+    background-image: url(treesearch.gif);
+    background-repeat: no-repeat;
+   
+}
+.image{
+    border: black solid;
+    height: 300px;
+    width: 900px;
+    background-image: url(logo.jfif);
+    background-position: center;
+    background-repeat: no-repeat;
 }
